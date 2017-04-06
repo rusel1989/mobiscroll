@@ -5,6 +5,7 @@
         "js/mobiscroll.core.js",
         "js/mobiscroll.frame.js",
         "js/mobiscroll.scroller.js",
+        "js/mobiscroll.scrollview.js",
         "css/mobiscroll.animation.css",
         "css/mobiscroll.frame.css",
         "css/mobiscroll.scroller.css"
